@@ -23,8 +23,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/itsmemohit/fm-product-preview-card)
-- Live Site URL: [Netlify live site url](https://gregarious-brigadeiros-eb6a6a.netlify.app/)
+- Solution URL: [Github repo](https://github.com/itsmemohit/fm-NFT-preview-card-component)
+- Live Site URL: [Netlify live site url](https://jade-begonia-55e575.netlify.app/)
 
 ## My process
 
